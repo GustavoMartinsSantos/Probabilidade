@@ -1,7 +1,6 @@
 # Probabilidade 
 This program calculates the number of possibilities of a given set, and from that, the program can give you the probability of this event occurring from the total of possibilities.
 
-To develop this program, I used the following calculations: <br>
 <h2>To develop this program, I used the following calculates</h2>
 <img src="https://user-images.githubusercontent.com/62625567/105749067-b2028080-5f21-11eb-997c-019466d46dc7.png"> <br>
 <img width="509" src="https://user-images.githubusercontent.com/62625567/105749754-9fd51200-5f22-11eb-97f4-afac6b9eeeed.png">
